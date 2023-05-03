@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4618c805-0c68-4c16-af15-3f1f336521ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Parser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="4618c805-0c68-4c16-af15-3f1f336521ab" name="Changes" comment="Se optimizó un poco más el código y se cambiaron algunos nombres de las variables para facilitar la lectursa del código" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2PGVL3cP8ztemovpQP033W7Q3C8" />
@@ -48,6 +44,29 @@
       <option name="presentableId" value="Default" />
       <updated>1683083348560</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se optimizó un poco más el código y se cambiaron algunos nombres de las variables para facilitar la lectursa del código">
+      <created>1683091682667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683091682667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se optimizó un poco más el código y se cambiaron algunos nombres de las variables para facilitar la lectursa del código" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se optimizó un poco más el código y se cambiaron algunos nombres de las variables para facilitar la lectursa del código" />
   </component>
 </project>
